@@ -5,3 +5,5 @@ empat
 lima
 enam
 tujuh
+delapan
+nine
