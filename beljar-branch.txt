@@ -1,4 +1,4 @@
-satu
+one
 dua
 tiga
 empat
@@ -7,3 +7,4 @@ enam
 tujuh
 delapan
 nine
+
